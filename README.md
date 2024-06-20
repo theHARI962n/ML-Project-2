@@ -45,3 +45,16 @@ The following preprocessing steps were applied:
  
 - Splitting the data into features (X) and target (Y).
 - Splitting the data into training and testing sets.
+
+
+## Model Training
+
+- Linear Regression
+
+A Linear Regression model was trained on the data.
+
+- Lasso Regression
+
+  A Lasso Regression model was trained on the data.
+
+
