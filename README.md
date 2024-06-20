@@ -29,3 +29,15 @@ The dataset consists of 301 entries and 9 columns:
 - Seller_Type
 - Transmission
 - Owner
+
+
+## Data Preprocessing
+
+The following preprocessing steps were applied:
+
+-Encoding categorical features:
+-Fuel_Type: Petrol (0), Diesel (1), CNG (2)
+-Seller_Type: Dealer (0), Individual (1)
+-Transmission: Manual (0), Automatic (1)
+-Splitting the data into features (X) and target (Y).
+-Splitting the data into training and testing sets.
