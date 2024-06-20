@@ -5,15 +5,11 @@ This project aims to predict the selling price of used cars based on various fea
 ## Table of Contents
 
 - Dataset
-- Installation
-- Exploratory Data Analysis
 - Data Preprocessing
 - Model Training
 - Linear Regression
 - Lasso Regression
-- Evaluation
 - Results
-- Conclusion
 
 
 ## Dataset
