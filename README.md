@@ -5,12 +5,27 @@ This project aims to predict the selling price of used cars based on various fea
 ## Table of Contents
 
 - Dataset
--Installation
+- Installation
 - Exploratory Data Analysis
--Data Preprocessing
--Model Training
--Linear Regression
--Lasso Regression
--Evaluation
--Results
--Conclusion
+- Data Preprocessing
+- Model Training
+- Linear Regression
+- Lasso Regression
+- Evaluation
+- Results
+- Conclusion
+
+
+Dataset
+
+The dataset consists of 301 entries and 9 columns:
+
+Car_Name
+Year
+Selling_Price
+Present_Price
+Kms_Driven
+Fuel_Type
+Seller_Type
+Transmission
+Owner
