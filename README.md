@@ -51,10 +51,16 @@ The following preprocessing steps were applied:
 
 - Linear Regression
 
-A Linear Regression model was trained on the data.
+  A Linear Regression model was trained on the data.
 
 - Lasso Regression
 
   A Lasso Regression model was trained on the data.
+
+
+## Results
+
+Both Linear Regression and Lasso Regression models performed well on the dataset, with Lasso Regression slightly outperforming Linear Regression on the testing set.
+
 
 
