@@ -16,16 +16,16 @@ This project aims to predict the selling price of used cars based on various fea
 - Conclusion
 
 
-Dataset
+## Dataset
 
 The dataset consists of 301 entries and 9 columns:
 
-Car_Name
-Year
-Selling_Price
-Present_Price
-Kms_Driven
-Fuel_Type
-Seller_Type
-Transmission
-Owner
+-Car_Name
+-Year
+-Selling_Price
+-Present_Price
+-Kms_Driven
+-Fuel_Type
+-Seller_Type
+-Transmission
+-Owner
